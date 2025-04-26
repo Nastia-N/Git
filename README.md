@@ -2,7 +2,7 @@
 Это небольшая шпаргалка, которая поможет познакомиться с Git.
 
 ## Настройка Git
-git config --global user.name "Ваше имя"  
+git config --global user.name "ваше имя"  
 git config --global user.email "ваша@почта.com" 
 
 ## Создание и клонирование репозитория
